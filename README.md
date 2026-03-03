@@ -1,4 +1,6 @@
 # Online-Agricultural-Assistance-Platform-Based-on-SpringBoot
+# 基于SpringBoot的网上助农平台
+ 代码文件在master分支<br>
 * 开发语言：Java <br>
 * 框架：springboot  <br>
 * JDK版本：JDK1.8 <br>
