@@ -5,7 +5,7 @@
  >管理员登陆账号：admin  密码：admin  <br>
  
 * 开发语言：Java <br>
-* 框架：springboot  <br>
+* 框架：springboot+Vue  <br>
 * JDK版本：JDK1.8 <br>
 * 服务器：tomcat7 <br>
 * 数据库：mysql 5.7 <br>
